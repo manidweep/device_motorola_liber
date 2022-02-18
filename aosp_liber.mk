@@ -45,6 +45,6 @@ TARGET_SCREEN_WIDTH := 1080
 # Build info
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=liber_retail \
-    PRIVATE_BUILD_DESC="liber_retail-user 10 QPIS30.73-33-6 fffd8e release-keys"
+    PRIVATE_BUILD_DESC="liber_retail-user 10 QPIS30.73-33-13 6de83 release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
